@@ -18,7 +18,7 @@ Plugins are usually more powerful and easier to use than native functionalities,
 -   [Name](link)
 -   [Name](link)
 
-### Submit your recipe!
+## Submit a recipe
 
 Create a PR to submit a recipe.
 
