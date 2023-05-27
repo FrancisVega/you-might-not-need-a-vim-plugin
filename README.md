@@ -6,17 +6,19 @@ This repository offers a collection of alternatives to plugins, inspired by a si
 
 Plugins are usually more powerful and easier to use than native functionalities, and without them Vim wouldn't be the Vim we know today. However, sometimes we don't need that much power and we would be satisfied with Vim's native functionalities. This way, we also consolidate our investment in the native features.
 
-## File navigation
+## Categories
+
+### File navigation
 
 -   [NERDTree](navigation/nerdtree.md)
 -   [Name](link)
 
-## Category 2
+### Category 2
 
 -   [Name](link)
 -   [Name](link)
 
-## Submit your recipe!
+### Submit your recipe!
 
 Create a PR to submit a recipe.
 
